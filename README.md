@@ -1,6 +1,9 @@
 # Unreal Engine Project - TestExamTP
  Third Person Project using Unreal Engine 5.3.2
- 
+
+ This is a preview video of the project.<br />
+ [![Gameplay Demo Video](https://img.youtube.com/vi/5EHhkI4tkpQ/hqdefault.jpg)](https://www.youtube.com/embed/5EHhkI4tkpQ)
+
  <br />
 
 ### Scene Overview
