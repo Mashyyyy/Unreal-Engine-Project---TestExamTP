@@ -1,4 +1,16 @@
 # Unreal Engine Project - TestExamTP
- Third Person Unreal Engine project
+ Third Person Project using Unreal Engine 5.3.2
+ 
+ 
 
- ![alt text](https://github.com/Mashyyyy/Unreal-Engine-Project---TestExamTP/tree/main/Image/SceneOverview-1.png)
+### Scene Overview
+
+### Character
+
+### Enemy
+
+### Simple door logic with rotation
+
+### Objectives and pickup
+
+### Objective tracker boolean - value
