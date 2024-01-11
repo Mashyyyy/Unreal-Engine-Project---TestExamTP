@@ -1400,3 +1400,83 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.11-14.03.43:582][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
 [2024.01.11-14.03.43:661][ 38]LogPlayLevel: Display: Destroying online subsystem :Context_11
 [2024.01.11-14.03.52:234][302]LogDerivedDataCache: C:/Users/julli/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.097 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1672 files in 2650 folders with total size 93 MiB.
+[2024.01.11-14.34.08:406][983]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.11-14.34.36:412][117]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.01.11-14.36.30:000][913]LogSlate: Window 'Event Graph' being destroyed
+[2024.01.11-14.37.46:645][710]Cmd: TRANSACTION UNDO
+[2024.01.11-14.37.46:645][710]LogEditorTransaction: Undo Add Node
+[2024.01.11-14.38.09:616][272]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.11-14.38.33:313][388]LogSlate: Window 'Event Graph' being destroyed
+[2024.01.11-14.38.34:243][455]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.11-14.39.06:549][ 52]Cmd: TRANSACTION UNDO
+[2024.01.11-14.39.06:550][ 52]LogEditorTransaction: Undo Move Node
+[2024.01.11-14.39.45:621][771]LogSlate: Window 'Event Graph' being destroyed
+[2024.01.11-14.39.48:299][ 87]BlueprintLog: New page: Compile BP_FinalDestination
+[2024.01.11-14.39.48:418][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.01.11-14.39.48:872][120]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.11-14.39.48:965][120]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.016932 seconds
+[2024.01.11-14.39.49:099][120]LogSavePackage: Moving output files for package: /Game/LevelProps/Blueprints/BP_FinalDestination
+[2024.01.11-14.39.49:100][120]LogSavePackage: Moving 'F:/UEProjects/Unreal-Engine-Project---TestExamTP/Project_Test/Saved/BP_FinalDestinationC7E0BFCF4E141C3234785AA0C4240450.tmp' to 'F:/UEProjects/Unreal-Engine-Project---TestExamTP/Project_Test/Content/LevelProps/Blueprints/BP_FinalDestination.uasset'
+[2024.01.11-14.39.49:160][120]LogFileHelpers: InternalPromptForCheckoutAndSave took 283 ms
+[2024.01.11-14.39.49:161][120]AssetCheck: New page: Asset Save: BP_FinalDestination
+[2024.01.11-14.39.49:168][120]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LevelProps/Blueprints/BP_FinalDestination.BP_FinalDestination
+[2024.01.11-14.39.50:210][242]BlueprintLog: New page: Compile BP_EnemyController
+[2024.01.11-14.39.50:249][242]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.01.11-14.39.50:687][286]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.11-14.39.50:754][286]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.11-14.39.50:861][286]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.11-14.39.50:911][286]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Follower/BP_EnemyController" FILE="F:/UEProjects/Unreal-Engine-Project---TestExamTP/Project_Test/Content/Follower/BP_EnemyController.uasset" SILENT=true
+[2024.01.11-14.39.50:952][286]LogSavePackage: Moving output files for package: /Game/Follower/BP_EnemyController
+[2024.01.11-14.39.50:953][286]LogSavePackage: Moving 'F:/UEProjects/Unreal-Engine-Project---TestExamTP/Project_Test/Saved/BP_EnemyControllerDCAFF4A64680C97AF6F1C185F87BF1AD.tmp' to 'F:/UEProjects/Unreal-Engine-Project---TestExamTP/Project_Test/Content/Follower/BP_EnemyController.uasset'
+[2024.01.11-14.39.50:961][286]LogFileHelpers: InternalPromptForCheckoutAndSave took 273 ms (total: 556 ms)
+[2024.01.11-14.39.50:962][286]AssetCheck: New page: Asset Save: BP_EnemyController
+[2024.01.11-14.39.50:962][286]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Follower/BP_EnemyController.BP_EnemyController
+[2024.01.11-14.40.53:530][ 55]LogSlate: Window 'Event Graph' being destroyed
+[2024.01.11-14.42.05:612][371]LogSlate: Window 'Event Graph' being destroyed
+[2024.01.11-14.42.56:718][723]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.11-14.42.56:895][724]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.11-14.42.57:115][730]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.11-14.43.02:931][ 66]LogViewport: Scene viewport resized to 882x667, mode Windowed.
+[2024.01.11-14.43.12:634][200]LogViewport: Scene viewport resized to 884x667, mode Windowed.
+[2024.01.11-14.43.12:657][201]LogViewport: Scene viewport resized to 887x667, mode Windowed.
+[2024.01.11-14.43.12:681][202]LogViewport: Scene viewport resized to 891x667, mode Windowed.
+[2024.01.11-14.43.12:704][203]LogViewport: Scene viewport resized to 893x667, mode Windowed.
+[2024.01.11-14.43.12:728][204]LogViewport: Scene viewport resized to 901x667, mode Windowed.
+[2024.01.11-14.43.12:753][205]LogViewport: Scene viewport resized to 907x667, mode Windowed.
+[2024.01.11-14.43.12:784][206]LogViewport: Scene viewport resized to 917x667, mode Windowed.
+[2024.01.11-14.43.12:806][207]LogViewport: Scene viewport resized to 924x667, mode Windowed.
+[2024.01.11-14.43.12:832][208]LogViewport: Scene viewport resized to 931x667, mode Windowed.
+[2024.01.11-14.43.12:859][209]LogViewport: Scene viewport resized to 938x667, mode Windowed.
+[2024.01.11-14.43.12:887][210]LogViewport: Scene viewport resized to 944x667, mode Windowed.
+[2024.01.11-14.43.12:912][211]LogViewport: Scene viewport resized to 946x667, mode Windowed.
+[2024.01.11-14.43.12:935][212]LogViewport: Scene viewport resized to 951x667, mode Windowed.
+[2024.01.11-14.43.12:958][213]LogViewport: Scene viewport resized to 954x667, mode Windowed.
+[2024.01.11-14.43.12:983][214]LogViewport: Scene viewport resized to 957x667, mode Windowed.
+[2024.01.11-14.43.13:080][224]LogViewport: Scene viewport resized to 964x667, mode Windowed.
+[2024.01.11-14.43.13:123][226]LogViewport: Scene viewport resized to 966x667, mode Windowed.
+[2024.01.11-14.43.13:174][230]LogViewport: Scene viewport resized to 968x667, mode Windowed.
+[2024.01.11-14.43.13:264][239]LogViewport: Scene viewport resized to 970x667, mode Windowed.
+[2024.01.11-14.43.13:286][240]LogViewport: Scene viewport resized to 971x667, mode Windowed.
+[2024.01.11-14.43.13:311][241]LogViewport: Scene viewport resized to 974x667, mode Windowed.
+[2024.01.11-14.43.13:334][242]LogViewport: Scene viewport resized to 975x667, mode Windowed.
+[2024.01.11-14.43.13:358][243]LogViewport: Scene viewport resized to 978x667, mode Windowed.
+[2024.01.11-14.43.13:382][244]LogViewport: Scene viewport resized to 979x667, mode Windowed.
+[2024.01.11-14.43.13:532][260]LogViewport: Scene viewport resized to 983x667, mode Windowed.
+[2024.01.11-14.43.13:854][297]LogViewport: Scene viewport resized to 985x667, mode Windowed.
+[2024.01.11-14.43.13:983][311]LogViewport: Scene viewport resized to 987x667, mode Windowed.
+[2024.01.11-14.43.15:324][468]LogViewport: Scene viewport resized to 989x667, mode Windowed.
+[2024.01.11-14.43.15:348][469]LogViewport: Scene viewport resized to 992x667, mode Windowed.
+[2024.01.11-14.43.15:371][470]LogViewport: Scene viewport resized to 1005x667, mode Windowed.
+[2024.01.11-14.43.15:396][471]LogViewport: Scene viewport resized to 1014x667, mode Windowed.
+[2024.01.11-14.43.15:422][472]LogViewport: Scene viewport resized to 1021x667, mode Windowed.
+[2024.01.11-14.43.15:446][473]LogViewport: Scene viewport resized to 1024x667, mode Windowed.
+[2024.01.11-14.43.15:470][474]LogViewport: Scene viewport resized to 1029x667, mode Windowed.
+[2024.01.11-14.43.15:494][475]LogViewport: Scene viewport resized to 1032x667, mode Windowed.
+[2024.01.11-14.43.15:534][476]LogViewport: Scene viewport resized to 1037x667, mode Windowed.
+[2024.01.11-14.43.15:732][498]LogViewport: Scene viewport resized to 1039x667, mode Windowed.
+[2024.01.11-14.43.15:763][500]LogViewport: Scene viewport resized to 1038x667, mode Windowed.
+[2024.01.11-14.43.15:786][501]LogViewport: Scene viewport resized to 1041x667, mode Windowed.
+[2024.01.11-14.43.15:809][502]LogViewport: Scene viewport resized to 1042x667, mode Windowed.
+[2024.01.11-14.43.15:847][503]LogViewport: Scene viewport resized to 1049x667, mode Windowed.
+[2024.01.11-14.43.50:140][353]LogViewport: Scene viewport resized to 997x667, mode Windowed.
+[2024.01.11-14.45.13:212][491]LogViewport: Scene viewport resized to 1014x380, mode Windowed.

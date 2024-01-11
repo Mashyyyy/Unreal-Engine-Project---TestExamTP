@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"F:/UEProjects/Unreal-Engine-Project---TestExamTP/Project_Test/Content/LevelProps/Blueprints/BP_FinalDestination.uasset",
+				"F:/UEProjects/Unreal-Engine-Project---TestExamTP/Project_Test/Content/Follower/BP_EnemyController.uasset",
 				"F:/UEProjects/Project_Test/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"F:/UEProjects/Project_Test/Content/Characters/May/BP_CharacterController.uasset",
 				"F:/UEProjects/Project_Test/Content/Characters/May/Animation/AB_Character.uasset",
